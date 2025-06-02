@@ -2,7 +2,17 @@
 Hello, I'm Pankaj Kumar.
 </h1>
 
-<p>
+> I've recently discovered that I have free will. It is a wild realisation.
+> I can use the skills I've gathered over time to actually *build* and
+> *create* real things, even if for purely personal projects.
+>
+> I had glimpses of this during my PhD. Visions of personal agency. Much
+> like how I can step into a kitchen and cook whatever I am craving,
+> I can do the same in all things. It sounds silly but this has been a
+> real shift in my perspective and has encouraged me to be more active
+> in building, sharing, and exploring further.
+
+
 I've recently discovered that I have free will. It is a wild realisation. I can use the skills I've gathered over time to actually <em>build</em> and <em>create</em> real things, even if for purely personal projects. I had glimpses of this during my PhD. Visions of personal agency. Much like how I can step into a kitchen and cook whatever I am craving, I can do the same in all things. It sounds silly but this has been a real shift in my perspective and has encouraged me to be more active in building, sharing, and exploring further.
 </p>
 
