@@ -1,7 +1,7 @@
 <h1>
 Hello, I'm Pankaj Kumar.
 </h1>
-```bash
+```
 > I've recently discovered that I have free will. It is a wild realisation.
 > I can use the skills I've gathered over time to actually *build* and
 > *create* real things, even if for purely personal projects.
